@@ -1,0 +1,26 @@
+.todo-items{
+    /* display: grid;
+    grid-template-columns: 1fr 1fr 1fr; */
+    gap: 15px;
+
+
+    width: 80%;
+    align-items: center;
+    margin: 10px;
+    
+}
+
+.distodo-con{
+   width: 80%;
+   align-items: center;
+  background-color: rgb(152, 163, 235);
+  margin: 72px;
+  margin-left: 264px;
+
+
+}
+
+h1{
+    margin-left: 50px;
+    margin: 5px 50px;
+}
