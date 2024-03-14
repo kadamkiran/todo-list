@@ -12,6 +12,7 @@
 
 .distodo-con{
    width: 80%;
+   min-height: 100vh;
    align-items: center;
   background-color: rgb(152, 163, 235);
   margin: 72px;
